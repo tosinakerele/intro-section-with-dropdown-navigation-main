@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-family: "Epilogue", sans-serif;
+}
+:root {
+  --AlmostWhite: hsl(0, 0%, 98%);
+  --MediumGray: hsl(0, 0%, 41%);
+  --AlmostBlack: hsl(0, 0%, 8%);
+}
